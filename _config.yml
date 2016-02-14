@@ -1,0 +1,28 @@
+name: gdelder
+favicon: null
+layout_spectrum: 0.25400083255954087
+typography_spectrum: 0.3241593630518764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.40474535059183836
+  lightness: 0.8930800941307098
+  saturation: 0.1152835595421493
+  rhythmicContrast: 0.7632268315646797
+purpose: []
